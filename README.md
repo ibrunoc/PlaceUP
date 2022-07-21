@@ -73,3 +73,5 @@ Com isso surge a **PLACE UP** uma plataforma online que auxilia o comerciamente 
 
 ## 🔆 Sobre o nós
 A Place Up foi fundada em 2022, pelo grupo NightCode composto por 8 estudantes do Instituto Proa que estavam empenhados em criar uma empresa que ajudasse os comerciantes locais.
+
+![Screenshot_2](https://user-images.githubusercontent.com/68878579/180326261-53d00727-b90f-425e-bff8-4491eed31a4a.png)
